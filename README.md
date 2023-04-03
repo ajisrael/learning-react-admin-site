@@ -20,3 +20,7 @@ Create `index.css` and copy [contents from course](https://raw.githubusercontent
 Create `App.css` and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/src/App.css)
 
 
+Create `tailwind.config.js` in root folder and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/tailwind.config.js)
+
+Create `craco.config.js` in root folder and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/craco.config.js)
+
