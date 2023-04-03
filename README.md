@@ -42,3 +42,11 @@ Now it's time to start the server to check and make sure everything is working a
 ```bash
 npm start
 ```
+
+## Project Structure
+Add the following folders to `src`:
+  - components
+  - contexts
+  - pages
+
+Download and paste the [data folder](https://github.com/adrianhajdin/project_syncfusion_dashboard/tree/main/src/data) from the course.
