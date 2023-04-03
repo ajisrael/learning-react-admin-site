@@ -15,3 +15,8 @@ Install new packages
 npm install --legacy-peer-deps
 ```
 
+Create `index.css` and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/src/index.css)
+
+Create `App.css` and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/src/App.css)
+
+
