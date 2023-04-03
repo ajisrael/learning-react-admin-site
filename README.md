@@ -24,3 +24,21 @@ Create `tailwind.config.js` in root folder and copy [contents from course](https
 
 Create `craco.config.js` in root folder and copy [contents from course](https://raw.githubusercontent.com/adrianhajdin/project_syncfusion_dashboard/main/craco.config.js)
 
+Add ESLint
+```bash
+npm install eslint
+```
+
+Setup `eslintrc`
+```bash
+./node_modules/.bin/eslint --init
+```
+
+May need to go to Settings in VS Code to setup format on save. Guide [here](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code)
+
+## Start Server
+Now it's time to start the server to check and make sure everything is working as it should.
+
+```bash
+npm start
+```
