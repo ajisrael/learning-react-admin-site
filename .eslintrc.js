@@ -17,6 +17,6 @@ module.exports = {
     'react'
   ],
   rules: {
-    'vars':'local'
+    'no-unused-vars': 'off'
   }
 }
